@@ -15,28 +15,25 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="intro.c">
+    <ClCompile Include="Assignment3-01.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Assignment2-02.c">
+    <ClCompile Include="Assignment3-02.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Assignment2-01.c">
+    <ClCompile Include="Assignment3-03.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Assignment2-05.c">
+    <ClCompile Include="Assignment3-04.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Assignment2-07.c">
+    <ClCompile Include="Assignment3-06.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Assignment2-09.c">
+    <ClCompile Include="Assignment3-07.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Assignment2-10.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Assignment2-11.c">
+    <ClCompile Include="Assignment3-10.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
